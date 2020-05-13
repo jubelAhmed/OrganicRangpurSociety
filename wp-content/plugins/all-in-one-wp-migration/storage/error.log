@@ -24475,3 +24475,6 @@ May 13 2020 06:04:39
 May 13 2020 06:04:39
 {"Number":2,"Message":"chmod(): Operation not permitted","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":495}
 
+May 13 2020 07:30:39
+{"Number":2,"Message":"Division by zero","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/export\/class-ai1wm-export-content.php","Line":77}
+
