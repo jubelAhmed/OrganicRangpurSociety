@@ -1,0 +1,29 @@
+2020-04-06T10:28:51+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 14311
+2020-04-06T10:28:51+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update starts in the next minute :: obj_id 3f554fd0a01790949bf2eea855a82f7d
+2020-04-06T10:28:53+00:00 NOTICE abandoned_cart.success :: email: mdrakibahmed077@gmail.com :: checkout_url: https://www.sushenbiswas.com/checkout/?mc_cart_id=3f554fd0a01790949bf2eea855a82f7d
+2020-04-06T10:28:54+00:00 NOTICE debug :: Order ID 14311 was pending and is now on-hold :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2020-04-06T10:30:29+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update starts in the next minute :: obj_id 3f554fd0a01790949bf2eea855a82f7d
+2020-04-06T10:30:48+00:00 NOTICE system.debug :: order 14311 is in on-hold status, and is being skipped for now.
+2020-04-06T10:30:49+00:00 NOTICE abandoned_cart.success :: email: mdrakibahmed077@gmail.com :: checkout_url: https://www.sushenbiswas.com/checkout/?mc_cart_id=3f554fd0a01790949bf2eea855a82f7d
+2020-04-06T10:31:17+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 14312
+2020-04-06T10:31:19+00:00 NOTICE debug :: Order ID 14312 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => https://www.sushenbiswas.com/wp-content/plugins/elementor-gravity-forms/assets/css/elementor-gravity-forms.css?ver=5.4
+        )
+
+)
+
+2020-04-06T10:32:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update starts in the next minute :: obj_id 3f554fd0a01790949bf2eea855a82f7d
+2020-04-06T10:32:38+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update starts in the next minute :: obj_id 3f554fd0a01790949bf2eea855a82f7d
+2020-04-06T10:32:39+00:00 NOTICE abandoned_cart.success :: email: mdrakibahmed077@gmail.com :: checkout_url: https://www.sushenbiswas.com/checkout/?mc_cart_id=3f554fd0a01790949bf2eea855a82f7d
+2020-04-06T10:32:39+00:00 NOTICE abandoned_cart.success :: email: mdrakibahmed077@gmail.com :: checkout_url: https://www.sushenbiswas.com/checkout/?mc_cart_id=3f554fd0a01790949bf2eea855a82f7d
+2020-04-06T10:33:12+00:00 NOTICE order_submit.success :: addStoreOrder :: #14312 :: email: mdrakibahmed077@gmail.com :: landing site https://www.sushenbiswas.com/wp-content/plugins/elementor-gravity-forms/assets/css/elementor-gravity-forms.css?ver=5.4 :: abandoned cart deleted [3f554fd0a01790949bf2eea855a82f7d]

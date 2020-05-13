@@ -1,0 +1,12 @@
+2020-04-08T07:40:05+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 14358
+2020-04-08T07:40:06+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update starts in the next minute :: obj_id 510e631e3e6ff64cb5a3a3898ba8bec6
+2020-04-08T07:40:07+00:00 NOTICE abandoned_cart.success :: email: sojibreza64@gmail.com :: checkout_url: https://www.sushenbiswas.com/checkout/?mc_cart_id=510e631e3e6ff64cb5a3a3898ba8bec6
+2020-04-08T07:40:09+00:00 NOTICE debug :: Order ID 14358 was pending and is now on-hold :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2020-04-08T07:51:50+00:00 NOTICE system.debug :: order 14358 is in on-hold status, and is being skipped for now.
+2020-04-08T10:52:05+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update starts in the next minute :: obj_id 510e631e3e6ff64cb5a3a3898ba8bec6
+2020-04-08T10:52:57+00:00 NOTICE abandoned_cart.success :: email: sojibreza64@gmail.com :: checkout_url: https://www.sushenbiswas.com/checkout/?mc_cart_id=510e631e3e6ff64cb5a3a3898ba8bec6

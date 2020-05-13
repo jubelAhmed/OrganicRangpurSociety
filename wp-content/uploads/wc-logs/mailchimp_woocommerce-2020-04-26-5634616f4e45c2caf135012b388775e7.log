@@ -1,0 +1,22 @@
+2020-04-26T03:37:43+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit starts in the next minute :: obj_id 1
+2020-04-26T03:37:45+00:00 NOTICE member.sync :: Updated Member sushenbiswasaga@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => Sushen
+            [LNAME] => Biswas
+        )
+
+)
+
+2020-04-26T04:34:34+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit starts in the next minute :: obj_id 27
+2020-04-26T04:34:39+00:00 NOTICE member.sync :: Updated Member rsaidur944@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => Saidur
+            [LNAME] => Rahman
+        )
+
+)
+

@@ -1,0 +1,24 @@
+2020-04-11T03:03:08+00:00 NOTICE debug :: Order ID 14312 was processing and is now cancelled :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2020-04-11T03:03:08+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 14312
+2020-04-11T03:04:45+00:00 NOTICE order_submit.success :: updateStoreOrder :: #14312 :: email: mdrakibahmed077@gmail.com
+2020-04-11T06:05:31+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update starts in the next minute :: obj_id 510e631e3e6ff64cb5a3a3898ba8bec6
+2020-04-11T06:05:45+00:00 NOTICE abandoned_cart.success :: email: sojibreza64@gmail.com :: checkout_url: https://www.sushenbiswas.com/checkout/?mc_cart_id=510e631e3e6ff64cb5a3a3898ba8bec6
+2020-04-11T06:06:04+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update starts in the next minute :: obj_id 510e631e3e6ff64cb5a3a3898ba8bec6
+2020-04-11T06:06:52+00:00 NOTICE abandoned_cart.success :: email: sojibreza64@gmail.com :: checkout_url: https://www.sushenbiswas.com/checkout/?mc_cart_id=510e631e3e6ff64cb5a3a3898ba8bec6
+2020-04-11T06:07:16+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update starts in the next minute :: obj_id 510e631e3e6ff64cb5a3a3898ba8bec6
+2020-04-11T06:07:22+00:00 NOTICE abandoned_cart.success :: email: sojibreza64@gmail.com :: checkout_url: https://www.sushenbiswas.com/checkout/?mc_cart_id=510e631e3e6ff64cb5a3a3898ba8bec6
+2020-04-11T06:07:24+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update starts in the next minute :: obj_id 510e631e3e6ff64cb5a3a3898ba8bec6
+2020-04-11T06:07:27+00:00 NOTICE abandoned_cart.success :: email: sojibreza64@gmail.com :: checkout_url: https://www.sushenbiswas.com/checkout/?mc_cart_id=510e631e3e6ff64cb5a3a3898ba8bec6
+2020-04-11T06:09:48+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update starts in the next minute :: obj_id 510e631e3e6ff64cb5a3a3898ba8bec6
+2020-04-11T06:10:13+00:00 NOTICE abandoned_cart.success :: email: sojibreza64@gmail.com :: checkout_url: https://www.sushenbiswas.com/checkout/?mc_cart_id=510e631e3e6ff64cb5a3a3898ba8bec6
+2020-04-11T07:56:28+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update starts in the next minute :: obj_id 510e631e3e6ff64cb5a3a3898ba8bec6
+2020-04-11T07:56:43+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update starts in the next minute :: obj_id 510e631e3e6ff64cb5a3a3898ba8bec6
+2020-04-11T07:56:44+00:00 NOTICE abandoned_cart.success :: email: sojibreza64@gmail.com :: checkout_url: https://www.sushenbiswas.com/checkout/?mc_cart_id=510e631e3e6ff64cb5a3a3898ba8bec6
+2020-04-11T07:56:44+00:00 NOTICE abandoned_cart.success :: email: sojibreza64@gmail.com :: checkout_url: https://www.sushenbiswas.com/checkout/?mc_cart_id=510e631e3e6ff64cb5a3a3898ba8bec6
+2020-04-11T07:57:04+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update starts in the next minute :: obj_id 510e631e3e6ff64cb5a3a3898ba8bec6
+2020-04-11T07:57:39+00:00 NOTICE abandoned_cart.success :: email: sojibreza64@gmail.com :: checkout_url: https://www.sushenbiswas.com/checkout/?mc_cart_id=510e631e3e6ff64cb5a3a3898ba8bec6

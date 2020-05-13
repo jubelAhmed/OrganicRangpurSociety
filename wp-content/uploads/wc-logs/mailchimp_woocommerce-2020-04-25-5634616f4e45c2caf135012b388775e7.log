@@ -1,0 +1,11 @@
+2020-04-25T09:08:25+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit starts in the next minute :: obj_id 27
+2020-04-25T09:09:05+00:00 NOTICE member.sync :: Updated Member rsaidur944@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => Saidur
+            [LNAME] => Rahman
+        )
+
+)
+

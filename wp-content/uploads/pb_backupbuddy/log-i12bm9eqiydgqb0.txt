@@ -1,0 +1,16 @@
+[May 2, 2020 16:34:59 0-error] [] Error #3892343283: Error #39752893d. Server reported an error performing action `connect` with additional params: `Array
+(
+    [auth_token] => $P$B9qP4yoozAJafl9WWQY7uDJt6pOKdq/
+)
+`. Body Details: `Array
+(
+    [type] => system
+    [name] => user
+    [message] => Unknown username or password.  Please use your iThemes username (not email) and password to log in.
+)
+`. Response Details: `Array
+(
+    [code] => 200
+    [message] => OK
+)
+`.

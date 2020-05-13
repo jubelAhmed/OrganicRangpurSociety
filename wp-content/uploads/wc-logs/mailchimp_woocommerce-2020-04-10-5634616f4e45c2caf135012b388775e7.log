@@ -1,0 +1,2 @@
+2020-04-10T16:29:41+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update starts in the next minute :: obj_id 510e631e3e6ff64cb5a3a3898ba8bec6
+2020-04-10T16:30:59+00:00 NOTICE abandoned_cart.success :: email: sojibreza64@gmail.com :: checkout_url: https://sushenbiswas.com/checkout/?mc_cart_id=510e631e3e6ff64cb5a3a3898ba8bec6

@@ -1,0 +1,291 @@
+*********************
+*** Version 2.4.4 ***
+*********************
+Improvements:
+- Hide choice label support for Inherit Theme Styles theme
+- Fixed a JS error when no JS action hooks (gform.addAction) are present with Inherit Theme Styles option
+
+
+*********************
+*** Version 2.4.3 ***
+*********************
+Improvements:
+- Added icon support for Coupon field
+- Better support for Nested Forms Perk
+- Removed the link for Custom Theme
+
+New Feature:
+- New options under "Special" for checkbox/radio type fields: Hide choice label (image/icon only) 
+
+
+*********************
+*** Version 2.4.2 ***
+*********************
+Improvements:
+- Apply Custom 'list highlight background' style to Frame (no tick) and Frame (top tick) styles
+- Improved image sizing when smaller images are used
+- Clasy Glassy effect fixed for Multiselect chosen, and number fields
+- Fixed: Button background color wouldn't change for Classy Glassy theme
+- Fixed: Button border style wouldn't apply properly
+
+
+*********************
+***  Version 2.4  ***
+*********************
+New Theme option:
+- Inherit Theme Styles
+
+New Features:
+- New Theme option: Inherit Theme Styles
+- Float label option in Ethereal Material theme
+- Use already embedded Custom Font, like webkit fonts
+- Added new Ornament Styles:
+- - Frame (top tick)
+- - Frame (no tick)
+
+Improvements:
+- Overhauled Customization scripts
+- Improvements in the way Fonts are loaded
+- - Google fonts are now aggregated and linked on the page, instead of @import
+- - Removed default use of Google Fonts from themes
+- - Added admin notice to warn users to save settings to enable Default theme fonts
+- Fixed an issue with 'Reset theme changes' option
+- Fixed Address field size alignment
+- Fixed styling issues for Phone field with some WP themes
+- Improvements in Frame Style when using Text only
+- Improvements in Styles Pro Settings page styles
+- Added Pulse animation on 'Uninstall' button
+- Fixed style conflicts with Edge browser
+- - Disabled 'perspective' on Style: Flip for Edge until the bug in Edge browser is fixed
+- - Use of 'Segoe UI Symbol' font to avoid the Green Tick
+- Dequeue additional Gravity Forms layout stylesheet from Avia themes
+- Fixed a JS error when auto-scroll to error field was enabled for non-AJAX forms
+- Some minor CSS fixes
+- - Enhanced selectbox width
+- - File upload icon alignment
+- - Improvements in full-width elements
+- - Fixes in enhanced select box container size
+- - 'Other' radio option size
+
+
+*********************
+** Version 2.3.6.1 **
+*********************
+Improvements:
+- Fixed a bug with Merge Tags, where 'value' Merge Tag was also showing image
+
+
+*********************
+*** Version 2.3.6 ***
+*********************
+New Features:
+- Added options to style field descriptions in Theme Customization Options
+- Added new universal setting for Gravity Flow edit forms styling
+- Added field icons compatibility to Post Title, Post Category, Post Image, Post Tags, Post Cusom Field field type for compatible input types
+
+Improvements:
+- Fixed a bug where auto-scroll scrolled to the first error on the page, instead of the first error on the form which triggered it, in case of multiple forms.
+- Fixed duplicate auto-scrolling function firing on AJAX forms when next/submit is pressed multiple times.
+- Fixed a JS warning with Auto-scroll on error
+- (CSS) Fixed "Save and Continue Later" button when it broke into 2 lines on smaller screens
+- Added field icons compatibility to Post Title, Post Category, Post Image, Post Tags, Post Cusom Field field type for compatible input types
+
+
+*********************
+** Version 2.3.5.2 **
+*********************
+Improvements:
+- Added field icons compatibility to File Upload field type
+- Improvements in Pixel Chisel and Modern Carbon theme to adjust File Upload field icons
+- Fixed a bug where focus background would not apply to input type number
+
+
+*********************
+** Version 2.3.5.1 **
+*********************
+Improvements:
+- Minor fix where pagebreak for Gravity PDF wasn't working
+
+
+*********************
+*** Version 2.3.5 ***
+*********************
+New Features:
+- Merge tag modifier "image" to display images/icons for Radio/Checkbox choices
+- - This modifier can be customized to resize the image/icon as "image.small", "image.50" (where 50 is max value in px for width/height)
+- Added CSS Ready Classes-like support for Gravity PDF
+
+Improvements:
+- Fixed a bug when validation popup wouldn't work with "Default" theme
+- Fixed a JS warning on Ornament previews when nothing from Style Selector is set yet
+- Kiwi Theme: Increased width for select boxes (Month and Year) in CC fields by .5em.
+- Fixed decription ghosting effect when used Below Input with some themes
+- Modern Carbon: Remove transparency from choices when checked
+- Fixed default checkbox style width for some older versions of IE
+
+
+*********************
+**  Version 2.3.4  **
+*********************
+
+New Features:
+- Added Advanced Button Styling Options
+- Add your own images as field icons
+- Added 6 columns option for choices
+
+Improvements:
+- CSS improvements in multi-column choices
+- CSS improvements for Small ornament choices for "Style: Frame" when used with multi-columns
+- CSS improvmenets for HTML5 Time Field
+- CSS Improvement in CC expiration date fields when used in tight spaces
+- Unused Styles Pro setting removed from Page Appearance settings 
+- Fixed tooltips for Button Background and Button Text Color
+- Fixed an issue with chained select medium size
+
+
+*********************
+**  Version 2.3.3  **
+*********************
+
+New Features:
+- Added new Ornament Style: Shadow box
+
+Improvements:
+- Improvements in Left-align/right-align labels
+- Fixed an issue when invisible fields disappeared on the Form Editor
+- Fixed conflicts with Divi Visual Builder
+- Fixed Cardinfo Left/Right fields vertical alignment when only one of them has a label
+- Added Hide Complex Field Labels option to CC Fields
+- Added word wrapping to buttons for longer labels
+- Fixed Default choices option width issue in case of longer labels
+- Fixed Other Field Label padding in Gooseflap theme
+- Inline choice options now break into separate rows on mobiles
+- Hide label is now available in Section fields
+- Scroll text now works with HTML and Section fields
+- Fixed CSS conflict with WP Cost Estimation & Payment Forms Builder
+- Fixed Frame Ornament custom background color for non-ornament options
+- Fixed an issue with Edge where time fields would be too wide
+
+
+*********************
+**   Version 2.3   **
+*********************
+
+- New Feature:
+- - Field styling in Theme customization options (8 new options)
+- - Field styling options for active field
+- - Added theme descriptions
+- Improved UX in Theme Customization
+- Works with Product Add-on out of the box
+- Added label behind other field in Radio Button
+- Improved support for Gravity Flow plugin
+- Enhanced inline style generation
+
+
+*********************
+**  Version 2.2.4  **
+*********************
+
+- Added scroll text for HTML and Section fields
+- Fixed an issue when without settings an error was shown
+- Fixed issue when GravityView would not load Default Theme
+- Fixed a bug that shows an error in older versions of GF where get_plugin_settings() is not available
+- Added version number in Styles Pro Main stylesheet enqueue
+- Added box-sizing for fields
+- Cleanup conflicting styles from Custom theme
+- Fixed a CSS issue with Time Fields
+- Added Icon/Images options to Product field Radio/Checkboxes
+- Fixed an issue with Collapsible Sections add-on
+- Fixed GF Visibility CSS
+- Improved margin around Instructions
+- Added Responsive styles for List Field type
+- Added new option in Theme Customization
+- - Reinforce Styles
+- Added strength indicator styles for Password Field
+- Complex fields are now full-width on mobile devices by default
+- Moved Styles Pro styles to Front-end only
+
+
+*********************
+***  Version 2.2  ***
+*********************
+
+New Feature:
+- Default Theme
+- Images/Icon previews in Form Editor
+- Ornaments options added to Custom Post Field and Post Tag fields
+
+Improvements:
+- UX/UI improvements in Styles Selector and Ornament Selector
+- UX/UI improvements in Styles Pro Settings and Styles Pro Page
+- Cleanup conflicting styles from Impreza and X theme
+- Fixed CSS conflicts with User Registration Login
+- Fixed padding with Ornament After placement
+- Fixed Default Settings in Gooseflap theme
+- Minor improvements in Gooseflap theme
+- Styling Options for Left/Right aligned forms
+- Fixed Validation Scroll conflicts
+
+
+*********************
+***  Version 2.1  ***
+*********************
+
+New Theme Added:
+- Kiwi
+
+New Features:
+- Added icon counter with icon search search
+
+Improvements:
+- Fixed CSS conflicts with Survey Add-On
+- Fixed validation CSS for complex fields
+- Fixed icons for complex fields and date field
+- Fixed Toggle CSS
+- Fixed Shade Styles for Inline Small images
+- Fixed Option text-shadow issue in Edge browser
+
+
+
+*********************
+***  Version 2.0  ***
+*********************
+
+New Features:
+- Customize Validation Message (HTML allowed)
+- Show validation message in a CSS pop-up
+- On validaion page reload, scroll to the first field with error
+- Better support for Gravity Forms no-conflict mode
+- Improved compatibility for unofficial Gravity Forms widgets and themes
+- Added support for User Role editing plugins
+- Added support for GravityView Edit Entry
+- Hide complex labels fields
+- Field Size: Full width
+- Add icons to Text, Number, Date, Email, Select fields
+- Choose from 4 styles for field icons
+- Add ornaments (icons OR images) to Radio and Checkbox choices
+- Replace defaul checkbox and radio icons with animated toggles/sliders (7 options)
+- 7 styles for checkbox/radio fields with ornaments
+- Use custom colors for each icon
+- 3 size options for ornaments
+- Ornaments placement option (before or after the text)
+
+Theme Customization:
+- Default icon colors
+- Field margin (bottom)
+- Button text color
+- Button background color
+- Default icon color
+- Background highlight color for supported ornament styles
+
+2 New Themes added:
+- Ethereal Material
+- Flat Splat
+
+Main Styles:
+- Added styles for Popup validation
+- Display none added for radio and checkboxes not(old)
+- Fixed honeypot field
+- Fixed Name fields CSS
+- Fixed Save for later
+- Fixed Multiselect

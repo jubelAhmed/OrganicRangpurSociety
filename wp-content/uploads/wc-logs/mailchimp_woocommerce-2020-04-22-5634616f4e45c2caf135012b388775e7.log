@@ -1,0 +1,37 @@
+2020-04-22T07:27:37+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 14656
+2020-04-22T07:27:45+00:00 NOTICE product_submit.success :: addStoreProduct :: #14656
+2020-04-22T07:30:36+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon starts in the next minute :: obj_id 14658
+2020-04-22T07:30:39+00:00 NOTICE promo_code.update :: updated promo code 100 % off for sadiur
+2020-04-22T07:30:56+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon starts in the next minute :: obj_id 14658
+2020-04-22T07:31:02+00:00 NOTICE promo_code.update :: updated promo code hz3zn7wg
+2020-04-22T07:31:28+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_SingleCoupon starts in the next minute :: obj_id 14658
+2020-04-22T07:31:40+00:00 NOTICE promo_code.update :: updated promo code hz3zn7wg
+2020-04-22T07:38:53+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 14656
+2020-04-22T07:39:02+00:00 NOTICE product_submit.success :: updateStoreProduct :: #14656
+2020-04-22T07:39:31+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 14656
+2020-04-22T07:39:41+00:00 NOTICE product_submit.success :: updateStoreProduct :: #14656
+2020-04-22T07:42:06+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 14656
+2020-04-22T07:42:32+00:00 NOTICE product_submit.success :: updateStoreProduct :: #14656
+2020-04-22T07:43:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 14656
+2020-04-22T07:43:37+00:00 NOTICE product_submit.success :: updateStoreProduct :: #14656
+2020-04-22T07:50:28+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 14656
+2020-04-22T07:50:42+00:00 NOTICE product_submit.success :: updateStoreProduct :: #14656
+2020-04-22T08:09:54+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update starts in the next minute :: obj_id 50d24a6aacf8f325ca2ede505bb99b4e
+2020-04-22T08:09:57+00:00 NOTICE abandoned_cart.success :: email: rsaidur944@gmail.com :: checkout_url: https://www.sushenbiswas.com/checkout/?mc_cart_id=50d24a6aacf8f325ca2ede505bb99b4e
+2020-04-22T08:12:17+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update starts in the next minute :: obj_id 50d24a6aacf8f325ca2ede505bb99b4e
+2020-04-22T08:12:23+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 14660
+2020-04-22T08:12:26+00:00 NOTICE debug :: Order ID 14660 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => https://www.sushenbiswas.com/wp-content/plugins/elementor-gravity-forms/assets/css/elementor-gravity-forms.css?ver=5.4
+        )
+
+)
+
+2020-04-22T08:13:29+00:00 NOTICE abandoned_cart.success :: email: rsaidur944@gmail.com :: checkout_url: https://sushenbiswas.com/checkout/?mc_cart_id=50d24a6aacf8f325ca2ede505bb99b4e
+2020-04-22T08:14:27+00:00 NOTICE order_submit.success :: addStoreOrder :: #14660 :: email: rsaidur944@gmail.com :: landing site https://www.sushenbiswas.com/wp-content/plugins/elementor-gravity-forms/assets/css/elementor-gravity-forms.css?ver=5.4 :: abandoned cart deleted [50d24a6aacf8f325ca2ede505bb99b4e]
+2020-04-22T08:34:38+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 14656
+2020-04-22T08:35:18+00:00 NOTICE product_submit.success :: updateStoreProduct :: #14656

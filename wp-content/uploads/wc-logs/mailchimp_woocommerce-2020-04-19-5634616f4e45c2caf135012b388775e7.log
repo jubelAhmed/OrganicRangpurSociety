@@ -1,0 +1,93 @@
+2020-04-19T03:14:23+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 14606
+2020-04-19T03:14:38+00:00 NOTICE product_submit.success :: addStoreProduct :: #14606
+2020-04-19T03:42:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 14606
+2020-04-19T03:42:42+00:00 NOTICE product_submit.success :: updateStoreProduct :: #14606
+2020-04-19T03:42:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 14606
+2020-04-19T03:43:40+00:00 NOTICE product_submit.success :: updateStoreProduct :: #14606
+2020-04-19T03:47:35+00:00 NOTICE product.delete_fail :: Unable to deleted product 14609
+2020-04-19T04:04:23+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 14606
+2020-04-19T04:04:40+00:00 NOTICE product_submit.success :: updateStoreProduct :: #14606
+2020-04-19T04:08:42+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 14606
+2020-04-19T04:09:45+00:00 NOTICE product_submit.success :: updateStoreProduct :: #14606
+2020-04-19T04:10:40+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 14606
+2020-04-19T04:10:46+00:00 NOTICE product_submit.success :: updateStoreProduct :: #14606
+2020-04-19T05:19:47+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update starts in the next minute :: obj_id 50d24a6aacf8f325ca2ede505bb99b4e
+2020-04-19T05:20:21+00:00 NOTICE abandoned_cart.success :: email: rsaidur944@gmail.com :: checkout_url: https://www.sushenbiswas.com/checkout/?mc_cart_id=50d24a6aacf8f325ca2ede505bb99b4e
+2020-04-19T05:21:05+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update starts in the next minute :: obj_id 50d24a6aacf8f325ca2ede505bb99b4e
+2020-04-19T05:21:47+00:00 NOTICE abandoned_cart.success :: email: rsaidur944@gmail.com :: checkout_url: https://www.sushenbiswas.com/checkout/?mc_cart_id=50d24a6aacf8f325ca2ede505bb99b4e
+2020-04-19T05:39:07+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update starts in the next minute :: obj_id 50d24a6aacf8f325ca2ede505bb99b4e
+2020-04-19T05:39:07+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update starts in the next minute :: obj_id 50d24a6aacf8f325ca2ede505bb99b4e
+2020-04-19T05:39:08+00:00 NOTICE abandoned_cart.success :: email: rsaidur944@gmail.com :: checkout_url: https://www.sushenbiswas.com/checkout/?mc_cart_id=50d24a6aacf8f325ca2ede505bb99b4e
+2020-04-19T05:39:08+00:00 NOTICE abandoned_cart.success :: email: rsaidur944@gmail.com :: checkout_url: https://www.sushenbiswas.com/checkout/?mc_cart_id=50d24a6aacf8f325ca2ede505bb99b4e
+2020-04-19T05:47:30+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 14616
+2020-04-19T05:47:34+00:00 NOTICE debug :: Order ID 14616 was pending and is now on-hold :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2020-04-19T05:49:04+00:00 NOTICE system.debug :: order 14616 is in on-hold status, and is being skipped for now.
+2020-04-19T05:50:39+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 14617
+2020-04-19T05:50:42+00:00 NOTICE debug :: Order ID 14617 was pending and is now on-hold :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2020-04-19T05:52:23+00:00 NOTICE system.debug :: order 14617 is in on-hold status, and is being skipped for now.
+2020-04-19T05:53:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update starts in the next minute :: obj_id 50d24a6aacf8f325ca2ede505bb99b4e
+2020-04-19T05:53:27+00:00 NOTICE abandoned_cart.success :: email: rsaidur944@gmail.com :: checkout_url: https://www.sushenbiswas.com/checkout/?mc_cart_id=50d24a6aacf8f325ca2ede505bb99b4e
+2020-04-19T05:54:21+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit starts in the next minute :: obj_id 27
+2020-04-19T05:54:21+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 14618
+2020-04-19T05:54:23+00:00 NOTICE debug :: Order ID 14618 was pending and is now on-hold :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2020-04-19T05:54:47+00:00 NOTICE member.sync :: Updated Member rsaidur944@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => Saidur
+            [LNAME] => Rahman
+        )
+
+)
+
+2020-04-19T05:55:52+00:00 NOTICE system.debug :: order 14618 is in on-hold status, and is being skipped for now.
+2020-04-19T05:55:59+00:00 NOTICE debug :: Order ID 14617 was on-hold and is now cancelled :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2020-04-19T05:55:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 14617
+2020-04-19T05:56:46+00:00 NOTICE debug :: Order ID 14618 was on-hold and is now cancelled :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2020-04-19T05:56:46+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 14618
+2020-04-19T05:57:39+00:00 NOTICE debug :: Order ID 14616 was on-hold and is now cancelled :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2020-04-19T05:57:40+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 14616
+2020-04-19T06:03:00+00:00 NOTICE debug :: Order ID 14358 was on-hold and is now cancelled :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2020-04-19T06:03:00+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 14358
+2020-04-19T06:07:44+00:00 NOTICE debug :: Order ID 14311 was on-hold and is now cancelled :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2020-04-19T06:07:44+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 14311
